@@ -28,8 +28,6 @@ tutorialList:
 ## TODOS:
 - [ ] setup project - customize
 - [ ] project data json
-- [ ] Astro
-- [ ] React
 - [ ] GitHub Pages
 - [ ] GitHub Actions > DreamHost (?)
 
