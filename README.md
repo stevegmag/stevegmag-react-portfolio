@@ -28,10 +28,10 @@ old repo: https://github.com/stevegmag/react-stevegmag-portfolio
 
 
 ## TODOS:
-- [ ] setup project - customize
+- [ ] setup project 
+- [ ] customize
 - [ ] project data json
-- [ ] GitHub Pages
-- [ ] GitHub Actions > DreamHost (?)
+- [ ] GitHub Pages CI/CD
 
 ---
 ### Original Readme
