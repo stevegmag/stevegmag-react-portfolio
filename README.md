@@ -6,6 +6,7 @@ date: '2024-09-15'
 lastmod: '2024-09-15'
 draft: true
 slug: /stevegmag-react-portfolio
+local-path: /Users/steven.gallagher/Documents/_projects/stevegmag-react-portfolio
 description: stevegmag-react-portfolio
 tags:
   - Javascript
@@ -20,6 +21,7 @@ tutorialList:
   - https://www.figma.com/design/tkDs3aeBaqvF47hD063LSH/Untitled?node-id=0-1&p=f
 
 ---
+old repo: https://github.com/stevegmag/react-stevegmag-portfolio
 
 ## Tutorial List:
   - https://www.youtube.com/watch?v=YQCDUJ6hhNY&t=2s
