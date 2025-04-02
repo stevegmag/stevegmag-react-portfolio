@@ -9,8 +9,8 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
-          alt="Me sitting with a laptop"
+          src={getImageUrl("steveg/SteveG-CPU.webp")}
+          alt="Steve behind a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
@@ -37,10 +37,18 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Team Lead / Manager</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have led cross-functional teams across multiple projects spanning multiple locations 
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Quality Assurance, Performance, and Accessibility Tester</h3>
+              <p>
+                I have led cross-functional teams across multiple projects spanning multiple locations 
               </p>
             </div>
           </li>
