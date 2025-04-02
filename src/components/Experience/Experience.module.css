@@ -51,7 +51,7 @@
 }
 
 .skill p {
-  font-size: 25px;
+  font-size: 22px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
@@ -66,12 +66,13 @@
 .historyItem {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: flex-start;
   gap: 17px;
+  padding: 24px;
   background: #19376d;
   background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
   border-radius: 10px;
-  padding: 24px;
 }
 
 .historyItem img {
