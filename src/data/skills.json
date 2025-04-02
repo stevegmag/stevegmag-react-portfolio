@@ -1,30 +1,74 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "skills2/html.svg"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills2/css.svg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills2/javascript.svg"
+  },
+  {
+    "title": "Sass",
+    "imageSrc": "skills2/sass-wordmark.svg"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills2/bootstrap.svg"
+  },
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "skills2/tailwindcss.svg"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills2/react.svg"
+  },
+  {
+    "title": "Vue",
+    "imageSrc": "skills2/vuejs.svg"
+  },
+  {
+    "title": "jQuery",
+    "imageSrc": "skills2/jquery.svg"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills2/nodejs.svg"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "PHP",
+    "imageSrc": "skills2/php.svg"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Python",
+    "imageSrc": "skills2/python.svg"
+  },  
+  {
+    "title": "Next",
+    "imageSrc": "skills2/nextjs.svg"
+  },
+  {
+    "title": "Nuxt",
+    "imageSrc": "skills2/nuxtjs.svg"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills2/laravel.svg"
+  },
+  {
+    "title": "Drupal",
+    "imageSrc": "skills2/drupal.svg"
+  },
+  {
+    "title": "WordPress",
+    "imageSrc": "skills2/wordpress.svg"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "skills2/figma.svg"
   }
 ]
