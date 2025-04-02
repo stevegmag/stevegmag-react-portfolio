@@ -12,6 +12,10 @@
     "imageSrc": "skills2/javascript.svg"
   },
   {
+    "title": "jQuery",
+    "imageSrc": "skills2/jquery.svg"
+  },
+  {
     "title": "Sass",
     "imageSrc": "skills2/sass-wordmark.svg"
   },
@@ -20,8 +24,12 @@
     "imageSrc": "skills2/bootstrap.svg"
   },
   {
-    "title": "TailwindCSS",
+    "title": "Tailwind",
     "imageSrc": "skills2/tailwindcss.svg"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills2/materialui.svg"
   },
   {
     "title": "React",
@@ -32,8 +40,8 @@
     "imageSrc": "skills2/vuejs.svg"
   },
   {
-    "title": "jQuery",
-    "imageSrc": "skills2/jquery.svg"
+    "title": "Typescript",
+    "imageSrc": "skills2/typescript.svg"
   },
   {
     "title": "Node",
@@ -52,12 +60,16 @@
     "imageSrc": "skills2/nextjs.svg"
   },
   {
-    "title": "Nuxt",
-    "imageSrc": "skills2/nuxtjs.svg"
+    "title": "Astro",
+    "imageSrc": "skills2/astro-light.svg"
   },
   {
     "title": "Laravel",
     "imageSrc": "skills2/laravel.svg"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills2/django.svg"
   },
   {
     "title": "Drupal",
