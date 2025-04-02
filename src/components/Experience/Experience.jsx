@@ -8,6 +8,11 @@ import { getImageUrl } from "../../utils";
 export const Experience = () => {
   return (
     <section className={styles.container} id="experience">
+      <img
+        src={getImageUrl("steveg/SteveG-DollarBillsYall.webp")}
+        alt="Steven Experience image"
+        className={styles.experienceImage}
+      />
       <h2 className={styles.title}>Skills & Experience</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
