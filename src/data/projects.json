@@ -1,26 +1,50 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Walden University",
+    "imageSrc": "projects/WALD-flag.png",
+    "description": "Built the front-end of the Walden University Education website.",
+    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Sitecore"],
+    "demo": "#project-waldenuniversity",
+    "source": "#"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Samsung Display",
+    "imageSrc": "projects/SAMS-flag.png",
+    "description": "Maintained and enhanced Drupal site for Samsung Display. Build and Maintained complete redesigned WordPress site",
+    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "Wordpress", "HubSpot"],
+    "demo": "#project-samsungdisplay",
+    "source": "#"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "BOAFit",
+    "imageSrc": "projects/BOA-flag2.png",
+    "description": "Architected and built Drupal site for BOAFit. Built Front-end fro Magento Warranty Store",
+    "skills": ["React", "Drupal", "Magento", "JavaScript", "Sass/SCSS"],
+    "demo": "#project-boafit",
+    "source": "#"
+  },
+  {
+    "title": "ConservatoryLand",
+    "imageSrc": "projects/CONL-flag.png",
+    "description": "Resuced failing React and WordPress project",
+    "skills": ["React", "PHP", "WordPress", "Firebase", "JavaScript", "Sass/SCSS", "QA"],
+    "demo": "#project-conservatoryland",
+    "source": "#"
+  },
+  {
+    "title": "Uplifting Athletes",
+    "imageSrc": "projects/UA-flag.png",
+    "description": "Built and Maintainded Drupal site with Organic Groups",
+    "skills": ["Drupal", "PHP", "JavaScript", "CSS"],
+    "demo": "#project-upliftingathletes",
+    "source": "#"
+  },
+  {
+    "title": "American Woodmark",
+    "imageSrc": "projects/Woodmark-flag.png",
+    "description": "Built and Maintainded Drupal site with Javascript SPA",
+    "skills": ["Drupal", "PHP", "JavaScript", "CSS", "AJAX SPA", "REST API"],
+    "demo": "#project-americanwoodmark",
+    "source": "#"
   }
 ]
