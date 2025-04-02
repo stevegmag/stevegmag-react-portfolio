@@ -1,11 +1,12 @@
 @import "../../vars.css";
 
 .container {
+  position: relative;
   margin-top: 76px;
-  color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
   padding: 80px 0 0 0;
+  color: var(--color-text);
 }
 
 .title {
@@ -24,4 +25,13 @@
   justify-content: center;
   gap: 15px;
   width: 100%;
+}
+.projectsImage {
+  position: absolute;
+  display: inline-block;
+  top: -166px;
+  /* right: -13px; */
+  left: 432px;
+  width: 328px;
+  height: auto;
 }
