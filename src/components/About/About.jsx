@@ -46,9 +46,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Quality Assurance, Performance, and Accessibility Tester</h3>
+              <h3>Quality Assurance, Performance, and Accessibility Evangelist and Tester</h3>
               <p>
-                I have led cross-functional teams across multiple projects spanning multiple locations 
+                It's not right until it looks good, works, and is fast... for everyone! 
               </p>
             </div>
           </li>
