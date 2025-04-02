@@ -65,6 +65,10 @@
 .aboutItem p {
   font-size: 25px;
 }
+.aboutItem img {  
+  max-width: 70px;
+  margin-right: 8px;
+}
 
 @media screen and (max-width: 830px) {
   .container {

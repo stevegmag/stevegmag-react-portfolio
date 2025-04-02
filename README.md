@@ -32,6 +32,7 @@ old repo: https://github.com/stevegmag/react-stevegmag-portfolio
 - [ X ] customize
 - [ X ] project data json
 - [ X ] GitHub Pages CI/CD
+- [ ] Add Project Details
 
 ---
 ### Original Readme
