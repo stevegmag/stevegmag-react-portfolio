@@ -15,7 +15,7 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/front-end.png")} alt="Frontend icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -25,7 +25,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/backend.png")} alt="Backend icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -35,7 +35,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/team.png")} alt="Team icon" />
             <div className={styles.aboutItemText}>
               <h3>Team Lead / Manager</h3>
               <p>
@@ -44,7 +44,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/diagnostic.png")} alt="Testing icon" />
             <div className={styles.aboutItemText}>
               <h3>Quality Assurance, Performance, and Accessibility Evangelist and Tester</h3>
               <p>
