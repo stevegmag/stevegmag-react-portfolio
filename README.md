@@ -28,10 +28,10 @@ old repo: https://github.com/stevegmag/react-stevegmag-portfolio
 
 
 ## TODOS:
-- [ ] setup project 
-- [ ] customize
-- [ ] project data json
-- [ ] GitHub Pages CI/CD
+- [ X ] setup project 
+- [ X ] customize
+- [ X ] project data json
+- [ X ] GitHub Pages CI/CD
 
 ---
 ### Original Readme
