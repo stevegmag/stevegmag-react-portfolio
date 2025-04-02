@@ -8,8 +8,12 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
-        Portfolio
+      <a className={styles.title} href="#steveg-top">
+      <img 
+        className={styles.stevegImage}
+        src={getImageUrl("steveg/SteveG-Smile.webp")} 
+        alt="SteveG smiling"/>
+        Steven Gallagher<span className={styles.titleSpan}>&nbsp;| Full-Stack Developer</span>
       </a>
       <div className={styles.menu}>
         <img
