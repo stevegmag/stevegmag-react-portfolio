@@ -10,7 +10,7 @@
       "TruGreen", 
       "Connections Academy"
     ],
-    "imageSrc": "history/Jellyfish-J.webp"
+    "imageSrc": ["history/Jellyfish-J.webp"]
   },
   {
     "role": "Director of Development",
@@ -21,7 +21,7 @@
       "PerCredo", 
       "Mirixa"
     ],
-    "imageSrc": "history/AccelerantStudiosMark.webp"
+    "imageSrc": ["history/AccelerantStudiosMark.webp"]
   },
   {
     "role": "Technical Director",
@@ -33,6 +33,36 @@
       "Uplifting Athletes",
       "National Geographic"
     ],
-    "imageSrc": "history/Mediabarn-studioicon-300x300.png"
+    "imageSrc": ["history/Mediabarn-studioicon-300x300.png"]
+  },
+  {
+    "role": "Web Group Manager",
+    "organisation": "Greenfield / Belser",
+    "startDate": "Oct, 2004",
+    "endDate": "May, 2008",
+    "experiences": [
+      "World Wildlife Fund",
+      "Boston University School of Law",
+      "Patton Boggs"
+    ],
+    "imageSrc": ["history/greenfield-belser-squarelogo.webp"]
+  },
+  {
+    "role": "Lead Web Developer",
+    "organisation": "AKQA - Magnet Interactive",
+    "startDate": "Mar, 1194",
+    "endDate": "Sept, 2004",
+    "experiences": [
+      "Smithsonian Education",
+      "Kelloggs",
+      "Dupont Stainmaster",
+      "AOL & KOL (Kids Online)",
+      "Nissan/Infiniti",
+      "FirstUSA Bank"
+    ],
+    "imageSrc": [
+      "history/AKQA.png",
+      "history/MagnetInteractive.webp"
+    ]
   }
 ]
