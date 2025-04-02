@@ -39,7 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Team Lead / Manager</h3>
               <p>
-                I have led cross-functional teams across multiple projects spanning multiple locations 
+                I have led diverse cross-functional teams across multiple projects spanning multiple locations 
               </p>
             </div>
           </li>
