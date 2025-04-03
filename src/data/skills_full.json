@@ -12,16 +12,8 @@
     "imageSrc": "skills2/javascript.svg"
   },
   {
-    "title": "React",
-    "imageSrc": "skills2/react.svg"
-  },
-  {
-    "title": "Vue",
-    "imageSrc": "skills2/vuejs.svg"
-  },
-  {
-    "title": "Typescript",
-    "imageSrc": "skills2/typescript.svg"
+    "title": "jQuery",
+    "imageSrc": "skills2/jquery.svg"
   },
   {
     "title": "Sass",
@@ -36,6 +28,22 @@
     "imageSrc": "skills2/tailwindcss.svg"
   },
   {
+    "title": "Material UI",
+    "imageSrc": "skills2/materialui.svg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills2/react.svg"
+  },
+  {
+    "title": "Vue",
+    "imageSrc": "skills2/vuejs.svg"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills2/typescript.svg"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills2/nodejs.svg"
   },
@@ -48,11 +56,31 @@
     "imageSrc": "skills2/python.svg"
   },  
   {
+    "title": "Next",
+    "imageSrc": "skills2/nextjs.svg"
+  },
+  {
+    "title": "Astro",
+    "imageSrc": "skills2/astro-light.svg"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills2/laravel.svg"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills2/django.svg"
+  },
+  {
     "title": "Drupal",
     "imageSrc": "skills2/drupal.svg"
   },
   {
     "title": "WordPress",
     "imageSrc": "skills2/wordpress.svg"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills2/figma.svg"
   }
 ]
