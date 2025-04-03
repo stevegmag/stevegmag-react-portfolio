@@ -29,9 +29,9 @@
 .projectsImage {
   position: absolute;
   display: inline-block;
-  top: -166px;
+  top: -58px;
   /* right: -13px; */
-  left: 432px;
-  width: 328px;
+  left: calc(50% - 50px);
+  width: 220px;
   height: auto;
 }

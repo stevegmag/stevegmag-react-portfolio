@@ -75,10 +75,12 @@
 .aboutItem h3 {
   font-size: 25px;
   font-weight: 600;
+  margin-bottom: 10px;
 }
 
 .aboutItem p {
-  font-size: 25px;
+  font-size: 18px;
+  line-height: 1.5;
 }
 .aboutItem img {  
   max-width: 70px;
