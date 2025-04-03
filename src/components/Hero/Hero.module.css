@@ -36,8 +36,12 @@
   font-size: 30px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  line-height: 1.5;
 }
 
+.contactBtn:first-child {
+  margin-right: 20px;
+}
 .contactBtn:link,
 .contactBtn:visited {
   text-decoration: none;
