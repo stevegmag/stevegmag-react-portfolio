@@ -11,9 +11,15 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a full-stack developer with years of experience building sites and applications using: <br />JavaScript (ES6+) | Modern JS Frameworks | Node.js | PHP | Python | Drupal | WordPress
         </p>
-        <a href="mailto:stevegmag@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.buttonCnt}>
+        
+          <a href="/assets/files/steven-gallagher-resume.pdf" target="_blank"className={styles.contactBtn}>
+            Grab Resume
+          </a>
+          <a href="mailto:stevegmag@gmail.com" className={styles.contactBtn}>
+            Contact Me
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("steveg/SteveG-Hi.webp")}

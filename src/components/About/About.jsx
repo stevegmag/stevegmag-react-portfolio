@@ -46,9 +46,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/diagnostic.png")} alt="Testing icon" />
             <div className={styles.aboutItemText}>
-              <h3>Quality Assurance, Performance, and Accessibility Evangelist and Tester</h3>
+              <h3>Quality Assurance, Performance, and <br />Accessibility Evangelist and Tester</h3>
               <p>
-              I'm passionate about creating web experiences that work flawlessly for everyone. As an accessibility advocate, I've championed WCAG/ADA compliance throughout my career, ensuring digital inclusion is built into every project from the start. My expertise includes implementing conversion rate optimization strategies, conducting thorough cross-browser/cross-device testing, and optimizing site performance metrics. I believe quality isn't negotiable—it's about creating solutions that are visually appealing, functionally robust, lightning-fast, and truly accessible to all users regardless of ability.
+              I'm passionate about creating web experiences that work flawlessly... for everyone. As an accessibility advocate, I've championed WCAG/ADA compliance throughout my career, ensuring digital inclusion is built into every project from the start. My expertise includes implementing conversion rate optimization strategies, conducting thorough cross-browser/cross-device testing, and optimizing site performance metrics. I believe quality isn't negotiable—it's about creating solutions that are visually appealing, functionally robust, lightning-fast, and truly accessible to all users regardless of ability.
               </p>
             </div>
           </li>
