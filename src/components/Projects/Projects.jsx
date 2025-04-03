@@ -3,7 +3,9 @@ import React from "react";
 import styles from "./Projects.module.css";
 
 import projects from "../../data/projects.json";
+import project_details from "../../data/project_details.json";
 import { ProjectCard } from "./ProjectCard";
+import { ProjectDetails } from "./ProjectDetails";
 import { getImageUrl } from "../../utils";
 
 
