@@ -1,8 +1,11 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/stevegmag-react-portfolio/', // Replace with your repository name
+  base: '/stevegmag-react-portfolio/',
+  build: {
+    assetsInclude: ['**/*.pdf'],
+  },
+  publicDir: 'public',
 })
