@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Steven</h1>
         <p className={styles.description}>
-        I'm a full-stack developer with years of experience building sites and applications using: <br />JavaScript (ES6+) | Modern JS Frameworks | Node.js | PHP | Python | Drupal | WordPress
+        I'm a full-stack developer with years of experience building sites and applications using: <br />JavaScript (ES6+) | Modern JS Frameworks | Node.js | PHP | Python | Drupal | WordPress...
         </p>
         <div className={styles.buttonCnt}>
         
