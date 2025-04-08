@@ -4,10 +4,13 @@ export const getImageUrl = (path) => {
 
 export const getFileUrl = (path) => {
   const isProduction = import.meta.env.PROD;
-  const baseUrl = isProduction ? '/stevegmag-react-portfolio' : '';
-  // Remove 'assets/' from the path for PDFs
-  console.log(`Resolving URL for ${path} in ${isProduction ? 'production' : 'development'}`);
-  const finalUrl = `${baseUrl}/${path}`;
+  // For local development, use absolute path from root
+  const baseUrl = isProduction 
+    ? '/stevegmag-react-portfolio'
+    : '';
+  
+  console.log(`Environment: ${isProduction ? 'production' : 'development'}`);
+  const finalUrl = `${baseUrl}/files/${path}`;
   console.log('Final URL:', finalUrl);
   return finalUrl;
 };
