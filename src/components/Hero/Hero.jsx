@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+import { getImageUrl, getFileUrl } from "../../utils";
 
 export const Hero = () => {
   return (
@@ -13,7 +13,7 @@ export const Hero = () => {
         </p>
         <div className={styles.buttonCnt}>
         
-          <a href="/assets/files/steven-gallagher-resume.pdf" target="_blank"className={styles.contactBtn}>
+          <a href={getFileUrl("steven-gallagher-resume.pdf")} target="_blank" className={styles.contactBtn}>
             Grab Resume
           </a>
           <a href="mailto:stevegmag@gmail.com" className={styles.contactBtn}>
