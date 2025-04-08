@@ -13,7 +13,7 @@ export const Hero = () => {
         </p>
         <div className={styles.buttonCnt}>
         
-          <a href={getFileUrl("steven-gallagher-resume.pdf")} target="_blank" className={styles.contactBtn}>
+          <a href={getFileUrl("steven-gallagher_resume.pdf")} target="_blank" rel="noopener noreferrer" className={styles.contactBtn}>
             Grab Resume
           </a>
           <a href="mailto:stevegmag@gmail.com" className={styles.contactBtn}>
