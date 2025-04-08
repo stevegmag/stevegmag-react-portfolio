@@ -1,11 +1,11 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   plugins: [react()],
-  base: '/stevegmag-react-portfolio/',
+  base: command === 'build' ? '/stevegmag-react-portfolio/' : '/',
   build: {
     assetsInclude: ['**/*.pdf'],
   },
   publicDir: 'public',
-})
+}))
