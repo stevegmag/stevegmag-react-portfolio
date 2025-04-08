@@ -33,6 +33,7 @@ old repo: https://github.com/stevegmag/react-stevegmag-portfolio
 - [ X ] project data json
 - [ X ] GitHub Pages CI/CD
 - [ ] Add Project Details
+- [ X ] Add more memojis
 
 ---
 ### Original Readme
