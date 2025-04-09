@@ -42,6 +42,7 @@ nav {
 
 .menu {
   display: flex;
+  top: 20px;
 }
 
 .menuItems {
@@ -108,6 +109,12 @@ nav {
     display: none;  
   }
 
+}
+
+@media screen and (max-width: 375px) {
+  .title {
+    font-size: 20px;
+  }
 }
 
 @media screen and (max-width: 1365px) {
