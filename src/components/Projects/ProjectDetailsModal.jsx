@@ -7,9 +7,8 @@ export const ProjectDetailsModal = ({ project, isOpen, onClose }) => {
   if (!project) return null;
 
   return (
-    <Modal isOpen={isOpen} onClose={onClose}>
+    <Modal isOpen={isOpen} onClose={onClose} title={project.title}>
       <div className={styles.projectDetail}>
-        <h2>{project.title}</h2>
         <div className={styles.meta}>
           <p className={styles.employer}>Employer: {project.employer}</p>
           <p className={styles.role}>Role: {project.role}</p>
