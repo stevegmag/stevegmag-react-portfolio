@@ -1,0 +1,361 @@
+{
+  "employers": [
+    {
+      "name": "Jellyfish",
+      "period": "2017-2024",
+      "projects": [
+        "ConservatoryLand",
+        "Samsung Public Information Display",
+        "TruGreen",
+        "Pearson's Connection Academy",
+        "Lincoln Technical Institute",
+        "FMC Agriculture",
+        "BOAFit / HABUFit",
+        "BAMTech (ESPN+)",
+        "Rackspace",
+        "SilverScript (CVS Medicare)",
+        "Walden University",
+        "Flash Parking",
+        "Mylicon",
+        "ROC Skincare"
+      ]
+    },
+    {
+      "name": "Accelerant Studios",
+      "period": "2015-2017",
+      "projects": [
+        "Acromegaly.care",
+        "Advaxis Immunotherapies",
+        "Accelovance",
+        "Alternate Axis",
+        "Assoc for Behavioral Health and Wellness",
+        {
+          "name": "Advanced Pain Medicine Institute",
+          "subProjects": [
+            "Practice",
+            "Rehab",
+            "Therapy"
+          ]
+        },
+        "Center for Copyright Information",
+        "Casey Health Institute",
+        {
+          "name": "Center for Construction Research and Training",
+          "subProjects": [
+            "Choose Hand Safety",
+            "Nailgun Facts"
+          ]
+        },
+        "Commercial Vehicle Safety Alliance",
+        "Eversense US & Swedish",
+        "International Union of Bricklayers & Allied Craftworkers",
+        "Gallatin Point",
+        "Kaulkin Ginsberg",
+        "Magyar Foundation",
+        "MD Clean Energy Center",
+        "Mirixa",
+        "Patient Safety",
+        "Nat'l Assoc of Broadcasters",
+        "National Board for Professional Teaching Standards",
+        "New Health Sciences",
+        "Optimal Research",
+        "PerCredo",
+        "Revolution",
+        "SurgCenter of Greenbelt",
+        "Senseonics",
+        "SteelNet",
+        "Topline Valuation Group",
+        "URAC"
+      ]
+    },
+    {
+      "name": "Mediabarn",
+      "period": "2008-2015",
+      "projects": [
+        {
+          "name": "American Woodmark Cabinetry / Shenandoah Cabinetry",
+          "hasModal": true,
+          "modalId": "project-Woodmark",
+          "stack": [
+            "PHP",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Drupal",
+            "Mutli-site",
+            "SPA",
+            "Mobile API"
+          ]
+        },
+        {
+          "name": "Uplifting Athletes",
+          "hasModal": true,
+          "modalId": "project-UpliftingAthletes",
+          "stack": [
+            "PHP",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Drupal",
+            "Organic Groups"
+          ]
+        },
+        {
+          "name": "Discovery / Discovery Education",
+          "subProjects": [
+            "Comcast",
+            "Web20.10",
+            "WSWA",
+            "XPrize",
+            "SOEL",
+            "TogetherCounts",
+            "NatureWorks"
+          ]
+        },
+        "Wildlife Center of Virginia",
+        {
+          "name": "National Geographic",
+          "subProjects": [
+            "FlipBook",
+            "BigCats",
+            "SeafoodDecisionGuide"
+          ]
+        },
+        "Latinum Networks",
+        "PBS",
+        "4-H",
+        "K12",
+        "Farmworkers Justice",
+        "Applied Materials",
+        "NFTE",
+        "National Structured Settlement Trade Association",
+        "MTN Satellite Communications",
+        "International Center for Non-violent Conflict (ICNC)",
+        "AOL Corporate & AOL Diversity",
+        "Better Business Bureau",
+        "SagePaymentSolutions",
+        "Re-HK",
+        "SIIA",
+        "Cortina",
+        "GMU/EdVantage",
+        "OutComeTracker",
+        "CollabortiveCommunications",
+        "IAmHirable",
+        "Back9Networks",
+        "National Cyber Security Alliance"
+      ]
+    },
+    {
+      "name": "Greenfield/Belser",
+      "period": "2004-2008",
+      "projects": [
+        {
+          "name": "World Wildlife Fund",
+          "hasModal": false
+        },
+        {
+          "name": "Epiq Systems",
+          "hasModal": false
+        },
+        {
+          "name": "DecisionQuest",
+          "hasModal": false
+        },
+        {
+          "name": "Northland Investment Group",
+          "hasModal": false
+        },
+        {
+          "name": "Bowne",
+          "hasModal": false
+        },
+        {
+          "name": "Levick",
+          "hasModal": false
+        },
+        {
+          "name": "The Siegfried Group",
+          "hasModal": false
+        },
+        {
+          "name": "Boston University School of Law",
+          "hasModal": false
+        },
+        {
+          "name": "The Environmental Film Festival in the Nation's Capital",
+          "hasModal": false
+        },
+        {
+          "name": "Society for Human Resource Management",
+          "hasModal": false
+        },
+        {
+          "name": "Practicing Law Institute",
+          "hasModal": false
+        },
+        {
+          "name": "Cohen Milstein",
+          "hasModal": false
+        },
+        {
+          "name": "The Murphy Firm",
+          "hasModal": false
+        },
+        {
+          "name": "Hansworth Sinkler Boyd",
+          "hasModal": false
+        },
+        {
+          "name": "Mintz Levin",
+          "hasModal": false
+        },
+        {
+          "name": "Choate Hall",
+          "hasModal": false
+        },
+        {
+          "name": "Buchanan Ingersoll",
+          "hasModal": false,
+          "note": "2004 & 2006"
+        },
+        {
+          "name": "Posternak",
+          "hasModal": false,
+          "note": "2004 & 2006"
+        },
+        {
+          "name": "Blank Rome",
+          "hasModal": false
+        },
+        {
+          "name": "Nutter, McClennen and Fish",
+          "hasModal": false
+        },
+        {
+          "name": "Peck, Shaffer",
+          "hasModal": false
+        },
+        {
+          "name": "Schottenstein, Zox and Dunn",
+          "hasModal": false
+        },
+        {
+          "name": "Helms Mulliss Wicker",
+          "hasModal": false,
+          "note": "2004 & 2006"
+        },
+        {
+          "name": "Bell Boyd and Lloyd",
+          "hasModal": false
+        },
+        {
+          "name": "Chapman and Cuttler",
+          "hasModal": false
+        },
+        {
+          "name": "Stites and Harbison",
+          "hasModal": false,
+          "note": "2004 & 2007"
+        },
+        {
+          "name": "Marger Johnson",
+          "hasModal": false,
+          "note": "2004 & 2006"
+        },
+        {
+          "name": "Morgan Miller Blair",
+          "hasModal": false
+        },
+        {
+          "name": "Paul Hastings",
+          "hasModal": false
+        },
+        {
+          "name": "Patton Boggs",
+          "hasModal": false
+        },
+        {
+          "name": "Patterson Belnap",
+          "hasModal": false
+        },
+        {
+          "name": "Beveridge Diamond",
+          "hasModal": false
+        },
+        {
+          "name": "Richards Spears",
+          "hasModal": false
+        },
+        {
+          "name": "Schiff Hardin",
+          "hasModal": false
+        },
+        {
+          "name": "Sterne Kessler",
+          "hasModal": false,
+          "note": "2004 & 2006"
+        },
+        {
+          "name": "Wheeler Trigg",
+          "hasModal": false
+        },
+        {
+          "name": "Wolf Greenfield",
+          "hasModal": false
+        },
+        {
+          "name": "Zuckerman Spader",
+          "hasModal": false
+        },
+        {
+          "name": "Morgan Lewis",
+          "hasModal": false
+        },
+        {
+          "name": "Weiner Brodsky",
+          "hasModal": false
+        },
+        {
+          "name": "Weir Foulds",
+          "hasModal": false
+        }
+      ]
+    },
+    {
+      "name": "Magnet | AKQA",
+      "period": "2000-2004",
+      "projects": [
+        "Energizer (12/97)",
+        "Citibank",
+        "De Beers (3/97)",
+        "Nissan",
+        "Infiniti",
+        "FedEx",
+        "FirstUSA Bank (10/97)",
+        "Mayo Clinic",
+        "National Geographic (11/96)",
+        "Kelloggs (11/96)",
+        {
+          "name": "Individual Kelloggs Character Sites",
+          "note": "(Tony the Tiger, Snap Crackle & Pop, etc…)"
+        },
+        "Crayola (11/96)",
+        "Discovery",
+        "Andersen Consulting (Accenture)",
+        "Dupont Stainmaster (3/01)",
+        "Sprint",
+        "MCI",
+        "Texas Instruments",
+        "Harley-Davidson",
+        "WorldCom",
+        "Microsoft",
+        "MS ZooTycoon",
+        "Carlsberg's Football (soccer) site",
+        "Smithsonian Education (4/03)",
+        "AOL & KOL (Kids Online)"
+      ]
+    }
+  ]
+}
