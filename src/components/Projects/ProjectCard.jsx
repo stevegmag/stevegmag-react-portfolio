@@ -1,37 +1,46 @@
-import React from "react";
-
+import React, { useState } from "react";
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
+import { ProjectDetailsModal } from "./ProjectDetailsModal";
+import project_details from "../../data/project_details.json";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, demo }
 }) => {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const detailedProject = project_details.find(p => p.title === title);
+
   return (
-    <div className={styles.container}>
-      <img
-        src={getImageUrl(imageSrc)}
-        alt={`Image of ${title}`}
-        className={styles.image}
-      />
-      <h3 className={styles.title}>{title}</h3>
-      <p className={styles.description}>{description}</p>
-      <ul className={styles.skills}>
-        {skills.map((skill, id) => {
-          return (
-            <li key={id} className={styles.skill}>
-              {skill}
-            </li>
-          );
-        })}
-      </ul>
-      <div className={styles.links}>
-        <a href={demo} className={styles.link}>
-          Project Details
-        </a>
-        {/* <a href={source} className={styles.link}>
-          Source
-        </a> */}
+    <>
+      <div className={styles.container}>
+        <img
+          src={getImageUrl(imageSrc)}
+          alt={`Image of ${title}`}
+          className={styles.image}
+        />
+        <h3 className={styles.title}>{title}</h3>
+        <p className={styles.description}>{description}</p>
+        <ul className={styles.skills}>
+          {skills.map((skill, id) => {
+            return (
+              <li key={id} className={styles.skill}>
+                {skill}
+              </li>
+            );
+          })}
+        </ul>
+        <div className={styles.links}>
+          <button onClick={() => setIsModalOpen(true)} className={styles.link}>
+            Project Details
+          </button>
+        </div>
       </div>
-    </div>
+      
+      <ProjectDetailsModal 
+        project={detailedProject}
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+      />
+    </>
   );
 };
