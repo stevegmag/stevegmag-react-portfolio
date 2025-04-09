@@ -32,7 +32,7 @@
   position: sticky;
   top: 133px;
   height: fit-content;
-  flex: 0 0 35%;
+  flex: 0 0 15%;
   align-self: flex-start;
 }
 
@@ -89,13 +89,18 @@
 
 @media screen and (max-width: 830px) {
   .container {
-    background-color: transparent;
+    margin-top: 0;
     padding-left: 0;
+    padding-bottom: 0;
     padding-right: 0;
+    background-color: transparent;
   }
 
   .content {
     flex-direction: column;
+  }
+  .title {
+    margin-bottom: 0px;
   }
 
   .aboutImageWrapper {
@@ -110,7 +115,6 @@
     width: 100%;
     margin-top: 29px;
   }
-
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
