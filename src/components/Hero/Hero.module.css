@@ -118,7 +118,7 @@
   z-index: 0;
 }
 
-@media screen and (max-width: 10240px) {
+@media screen and (max-width: 1024px) {
   .title {
     margin-top: 13px;
     font-size: 46px;
@@ -129,6 +129,8 @@
   .buttonCnt {
     flex-direction: column;
     justify-content: center;
+    width: 100%;
+    max-width: 100%;
   }
   .contactBtn:link,
   .contactBtn:visited {
