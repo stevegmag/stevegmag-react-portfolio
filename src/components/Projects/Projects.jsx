@@ -23,6 +23,7 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
+      <button className={styles.viewAll}>Full Client | Project List</button>  
     </section>
   );
 };
