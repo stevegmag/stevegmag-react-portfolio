@@ -14,6 +14,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  max-width: 50%;
   color: var(--color-text);
   z-index: 1;
 }
@@ -33,12 +34,19 @@
 }
 
 .description {
+  margin-bottom: 52px;
   font-size: 30px;
   font-family: var(--font-roboto);
-  margin-bottom: 52px;
   line-height: 1.5;
 }
 
+.buttonCnt {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
 .contactBtn:first-child {
   margin-right: 20px;
 }
@@ -61,7 +69,7 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 30%;
   z-index: 1;
 
   animation-name: floating;
@@ -113,17 +121,29 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    margin: 20xp 0 0 0;
   }
 
   .content {
     align-items: center;
+    max-width: 100%;
   }
   .title {
     margin-top: 13px;
     font-size: 32px;
   } 
   .description {
-    font-size: 26px;
+    font-size: 22px;
+  }
+  .buttonCnt {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .contactBtn:link,
+  .contactBtn:visited {
+    width: 90vw;
+    margin: 0 0 0 0;
+    text-align: center;
   }
 
 }
