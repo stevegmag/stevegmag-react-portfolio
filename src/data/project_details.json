@@ -105,7 +105,13 @@
       "Site quality assurance testing and remediation",
       "Performance and accessibility testing and remediation"
     ], 
-    "screenshots": [ "projects/screenshots/upliftingathletes.png" ],
+    "screenshots": [ 
+      "projects/screenshots/UA_home.png",
+      "projects/screenshots/UA_ChapterHome.png",
+      "projects/screenshots/UA_PSUHome.png",
+      "projects/screenshots/UA_CLEMHome.png",
+      "projects/screenshots/UA_TakeAtcion.png"
+    ],
     "demo": "#project-upliftingathletes",
     "source": "#",
     "url": "http://upliftingathletes.org/"
@@ -118,15 +124,18 @@
     "skills": ["Drupal", "PHP", "JavaScript", "CSS", "AJAX SPA", "REST API"],
     "role": "Technical Lead & Lead Drupal Developer",
     "activities": [ 
-      "Extensive custom module development<br>
-(PHP | Drupal, Ajax | AHAH, jQuery | jQuery UI)",
+      "Extensive custom module development (PHP | Drupal, Ajax | AHAH, jQuery | jQuery UI)",
       "Single-page application components",
       "Drupal back-end API service for remote mobile application team",
       "Third-party component integrations",
       "Site quality assurance testing and remediation",
       "Performance and accessibility testing and remediation"
     ], 
-    "screenshots": [ "projects/screenshots/upliftingathletes.png" ],
+    "screenshots": [ 
+      "projects/screenshots/AWC-Home.png",
+      "projects/screenshots/AWC-ProdBrowser.png",
+      "projects/screenshots/AWC-ProdBrowser-Doors.png"
+    ],
     "demo": "#project-americanwoodmark",
     "source": "#"
   }
