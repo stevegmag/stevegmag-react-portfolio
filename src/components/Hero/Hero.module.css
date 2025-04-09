@@ -118,12 +118,34 @@
   z-index: 0;
 }
 
+@media screen and (max-width: 10240px) {
+  .title {
+    margin-top: 13px;
+    font-size: 46px;
+  } 
+  .description {
+    font-size: 22px;
+  }
+  .buttonCnt {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .contactBtn:link,
+  .contactBtn:visited {
+    width: 80vw;
+    max-width: 100%;
+    margin: 0 0 0 0;
+    text-align: center;
+  }
+  .heroImg {
+  align-self: flex-start;
+  }
+}
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
     margin: 20xp 0 0 0;
   }
-
   .content {
     align-items: center;
     max-width: 100%;
