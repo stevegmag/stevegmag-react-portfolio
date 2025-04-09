@@ -1,49 +1,132 @@
 [
   {
     "title": "Walden University",
+    "employer": "Jellyfish",
     "imageSrc": "projects/WALD-flag.png",
     "description": "Built the front-end of the Walden University Education website.",
     "skills": ["PHP", "JavaScript", "Sass/SCSS", "Sitecore"],
+    "role": "Lead Full-Stack Developer",
+    "activities": [ 
+      "Multiple site support from single codebase",
+      "Advanced Gulp configuration",
+      "Custum Bootstrap Teheming",
+      "Custom PHP Component Development",
+      "Sitecore Component Integration",
+      "Google AMP implementation",
+      "Directed and oversaw Jr Developers",
+      "Code reviews",
+      "Site QA Testing and Remediation",
+      "Performance anf Accessibility Testing and Remediation",
+      "Conversion Rate Optimization (CRO) (Optimize360 & Optimizely)"
+    ], 
+    "screenshots": [ "projects/screenshots/info-waldenu-edu.png" ],
     "demo": "#project-waldenuniversity",
-    "source": "#"
+    "source": "#",
+    "url": "https://info.waldenu.edu/"
   },
   {
     "title": "Samsung Display",
+    "employer": "Jellyfish",
     "imageSrc": "projects/SAMS-flag.png",
     "description": "Rebuilt, maintained, and enhanced Drupal site for Samsung Display. Architected, built, and maintained complete redesigned WordPress site.",
     "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "Wordpress", "HubSpot"],
+    "role": "Lead Full-Stack Developer",
+    "activities": [
+      "UX/UI Wireframe and Design Reviews and Approvals",
+      "Wordpress Back-end Configuration and Development",
+      "Custom Wordpress Theme and Gutenberg Component Development",
+      "HubSpot Support and Integration",
+      "Directed and oversaw Jr Developers",
+      "Code reviews",
+      "Site QA Testing and Remediation",
+      "Performance anf Accessibility Testing and Remediation",
+      "Conversion Rate Optimization (CRO) (Optimize360)"
+    ],
+    "screenshots": [ "projects/screenshots/innovate-samsungdisplay.png" ],
     "demo": "#project-samsungdisplay",
-    "source": "#"
+    "source": "#",
+    "url": "https://innovate.samsungdisplay.com/"
   },
   {
     "title": "BOAFit",
+    "employer": "Jellyfish",
     "imageSrc": "projects/BOA-flag2.png",
     "description": "Architected and built Drupal site for BOAFit. Built front-end for Magento Warranty Store.",
     "skills": ["React", "Drupal", "Magento", "JavaScript", "Sass/SCSS"],
+    "role": "Lead Front-end Developer",
+    "activities": [
+      "Lead Front-end Developer - 8+ person team",
+      "Drupal 8 - Custom Theme, Paragraphs, Views, Blocks",
+      "Multi-site / Multi-lingual / Multi-region",
+      "Led Development of reusable sites setup and components",
+      "Magento Warranty Store - Original Store Magento Front-end - Migration of store to Headless React application",
+      "Performance and Accessibility testing",
+      "Quality Assurance testing and remediation"
+    ], 
+    "screenshots": [ 
+      "projects/screenshots/boafit-en-us.png",
+      "projects/screenshots/boafit-en-us-warranty.png",
+      "projects/screenshots/boafit-store-en_us-checkout.png"
+    ],
     "demo": "#project-boafit",
-    "source": "#"
+    "source": "#",
+    "url": "https://www.boafit.com/en-us/"
   },
   {
     "title": "ConservatoryLand",
+    "employer": "Jellyfish",
     "imageSrc": "projects/CONL-flag.png",
     "description": "Resuced failing React and WordPress project.",
     "skills": ["React", "PHP", "WordPress", "Firebase", "JavaScript", "Sass/SCSS", "QA"],
+    "role": "Lead Front-end Developer",
+    "activities": [
+      "WordPress - Custom Theme",
+      "React Single Page Application - \"Get a Quote\" engine",
+      "Performance and Accessibility testing",
+      "Quality Assurance testing and remediation"
+    ], 
+    "screenshots": [ "projects/screenshots/conservatoryland.png" ],
     "demo": "#project-conservatoryland",
-    "source": "#"
+    "source": "#",
+    "url": "https://www.conservatoryland.com/"
   },
   {
     "title": "Uplifting Athletes",
+    "employer": "Mediabarn",
     "imageSrc": "projects/UA-flag.png",
     "description": "Architected, built, and maintainded Drupal site with Organic Groups.",
     "skills": ["Drupal", "PHP", "JavaScript", "CSS"],
+    "role": "Technical Lead & Lead Drupal Developer",
+    "activities": [ 
+      "Multiple site redesigns over the years",
+      "Organic Groups based mini-sites for each chapter",
+      "Custom module development",
+      "Third-party component integrations",
+      "Site quality assurance testing and remediation",
+      "Performance and accessibility testing and remediation"
+    ], 
+    "screenshots": [ "projects/screenshots/upliftingathletes.png" ],
     "demo": "#project-upliftingathletes",
-    "source": "#"
+    "source": "#",
+    "url": "http://upliftingathletes.org/"
   },
   {
     "title": "American Woodmark",
+    "employer": "Mediabarn",
     "imageSrc": "projects/Woodmark-flag.png",
     "description": "Architected, built and maintainded Drupal site with JavaScript SPA.",
     "skills": ["Drupal", "PHP", "JavaScript", "CSS", "AJAX SPA", "REST API"],
+    "role": "Technical Lead & Lead Drupal Developer",
+    "activities": [ 
+      "Extensive custom module development<br>
+(PHP | Drupal, Ajax | AHAH, jQuery | jQuery UI)",
+      "Single-page application components",
+      "Drupal back-end API service for remote mobile application team",
+      "Third-party component integrations",
+      "Site quality assurance testing and remediation",
+      "Performance and accessibility testing and remediation"
+    ], 
+    "screenshots": [ "projects/screenshots/upliftingathletes.png" ],
     "demo": "#project-americanwoodmark",
     "source": "#"
   }
