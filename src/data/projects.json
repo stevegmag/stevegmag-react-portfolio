@@ -11,7 +11,7 @@
     "title": "Samsung Display",
     "imageSrc": "projects/SAMS-flag.png",
     "description": "Rebuilt, maintained, and enhanced Drupal site for Samsung Display. Architected, built, and maintained complete redesigned WordPress site.",
-    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "Wordpress", "HubSpot"],
+    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "WordPress", "HubSpot"],
     "demo": "#project-samsungdisplay",
     "source": "#"
   },
@@ -26,7 +26,7 @@
   {
     "title": "ConservatoryLand",
     "imageSrc": "projects/CONL-flag.png",
-    "description": "Resuced failing React and WordPress project.",
+    "description": "Rescued failing React and WordPress project.",
     "skills": ["React", "PHP", "WordPress", "Firebase", "JavaScript", "Sass/SCSS", "QA"],
     "demo": "#project-conservatoryland",
     "source": "#"
