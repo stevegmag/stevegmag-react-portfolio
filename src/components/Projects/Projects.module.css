@@ -68,19 +68,6 @@
   z-index: 0;
 }
 
-
-@media screen and (max-width: 830px) {
-  .projectsImage {
-    position: absolute;
-    display: none;
-    top: 12px;
-    /* right: -13px; */
-    left: calc(60%);
-    width: 150px;
-    height: auto;
-  }
-}
-
 .viewAll {
   display: block;
   margin: 40px auto 0;
@@ -193,4 +180,22 @@
 
 .arrow.open {
   transform: rotate(180deg);
+}
+
+
+
+@media screen and (max-width: 830px) {
+  .container {
+    margin-top: 0;
+    padding-top: 80px;
+  }
+  .projectsImage {
+    position: absolute;
+    display: none;
+    top: 12px;
+    /* right: -13px; */
+    left: calc(60%);
+    width: 150px;
+    height: auto;
+  }
 }

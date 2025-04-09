@@ -9,14 +9,14 @@
     "activities": [ 
       "Multiple site support from single codebase",
       "Advanced Gulp configuration",
-      "Custum Bootstrap Teheming",
+      "Custom Bootstrap Theming",
       "Custom PHP Component Development",
       "Sitecore Component Integration",
       "Google AMP implementation",
       "Directed and oversaw Jr Developers",
       "Code reviews",
       "Site QA Testing and Remediation",
-      "Performance anf Accessibility Testing and Remediation",
+      "Performance and Accessibility Testing and Remediation",
       "Conversion Rate Optimization (CRO) (Optimize360 & Optimizely)"
     ], 
     "screenshots": [ "projects/screenshots/info-waldenu-edu.png" ],
@@ -29,17 +29,17 @@
     "employer": "Jellyfish",
     "imageSrc": "projects/SAMS-flag.png",
     "description": "Rebuilt, maintained, and enhanced Drupal site for Samsung Display. Architected, built, and maintained complete redesigned WordPress site.",
-    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "Wordpress", "HubSpot"],
+    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "WordPress", "HubSpot"],
     "role": "Lead Full-Stack Developer",
     "activities": [
       "UX/UI Wireframe and Design Reviews and Approvals",
-      "Wordpress Back-end Configuration and Development",
-      "Custom Wordpress Theme and Gutenberg Component Development",
+      "WordPress Back-end Configuration and Development",
+      "Custom WordPress Theme and Gutenberg Component Development",
       "HubSpot Support and Integration",
       "Directed and oversaw Jr Developers",
       "Code reviews",
       "Site QA Testing and Remediation",
-      "Performance anf Accessibility Testing and Remediation",
+      "Performance and Accessibility Testing and Remediation",
       "Conversion Rate Optimization (CRO) (Optimize360)"
     ],
     "screenshots": [ "projects/screenshots/innovate-samsungdisplay.png" ],
@@ -76,7 +76,7 @@
     "title": "ConservatoryLand",
     "employer": "Jellyfish",
     "imageSrc": "projects/CONL-flag.png",
-    "description": "Resuced failing React and WordPress project.",
+    "description": "Rescued failing React and WordPress project.",
     "skills": ["React", "PHP", "WordPress", "Firebase", "JavaScript", "Sass/SCSS", "QA"],
     "role": "Lead Front-end Developer",
     "activities": [
@@ -94,7 +94,7 @@
     "title": "Uplifting Athletes",
     "employer": "Mediabarn",
     "imageSrc": "projects/UA-flag.png",
-    "description": "Architected, built, and maintainded Drupal site with Organic Groups.",
+    "description": "Architected, built, and maintained Drupal site with Organic Groups.",
     "skills": ["Drupal", "PHP", "JavaScript", "CSS"],
     "role": "Technical Lead & Lead Drupal Developer",
     "activities": [ 
@@ -104,13 +104,13 @@
       "Third-party component integrations",
       "Site quality assurance testing and remediation",
       "Performance and accessibility testing and remediation"
-    ], 
+    ],
     "screenshots": [ 
       "projects/screenshots/UA_home.png",
       "projects/screenshots/UA_ChapterHome.png",
       "projects/screenshots/UA_PSUHome.png",
       "projects/screenshots/UA_CLEMHome.png",
-      "projects/screenshots/UA_TakeAtcion.png"
+      "projects/screenshots/UA_TakeAction.png"
     ],
     "demo": "#project-upliftingathletes",
     "source": "#",
@@ -120,7 +120,7 @@
     "title": "American Woodmark",
     "employer": "Mediabarn",
     "imageSrc": "projects/Woodmark-flag.png",
-    "description": "Architected, built and maintainded Drupal site with JavaScript SPA.",
+    "description": "Architected, built and maintained Drupal site with JavaScript SPA.",
     "skills": ["Drupal", "PHP", "JavaScript", "CSS", "AJAX SPA", "REST API"],
     "role": "Technical Lead & Lead Drupal Developer",
     "activities": [ 
@@ -130,7 +130,7 @@
       "Third-party component integrations",
       "Site quality assurance testing and remediation",
       "Performance and accessibility testing and remediation"
-    ], 
+    ],
     "screenshots": [ 
       "projects/screenshots/AWC-Home.png",
       "projects/screenshots/AWC-ProdBrowser.png",
