@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "Walden University",
+      "employer": "Jellyfish",
+      "period": "2017-2022",
+      "imageSrc": "projects/WALD-flag.png",
+      "description": "Built the front-end of the Walden University Education website.",
+      "skills": ["PHP", "JavaScript", "Sass/SCSS", "Sitecore"],
+      "role": "Lead Full-Stack Developer",
+      "activities": [
+        "Multiple site support from single codebase",
+        "Advanced Gulp configuration",
+        "Custom Bootstrap Theming",
+        "Custom PHP Component Development",
+        "Sitecore Component Integration",
+        "Google AMP implementation",
+        "Directed and oversaw Jr Developers",
+        "Code reviews",
+        "Site QA Testing and Remediation",
+        "Performance and Accessibility Testing and Remediation",
+        "Conversion Rate Optimization (CRO) (Optimize360 & Optimizely)"
+      ],
+      "screenshots": ["projects/screenshots/info-waldenu-edu.png"],
+      "url": "https://info.waldenu.edu/",
+      "featured": true,
+      "hasModal": true,
+      "modalId": "project-waldenuniversity"
+    }
+  ],
+  "employers": [
+    {
+      "name": "Jellyfish",
+      "period": "2017-2022",
+      "role": "Lead Front-End Engineer",
+      "imageSrc": ["history/Jellyfish-J.webp"],
+      "keyProjects": ["Samsung Display", "Walden University", "TruGreen", "Connections Academy"]
+    }
+  ]
+}
