@@ -2,30 +2,30 @@
 
 .container {
   position: relative;
-  color: var(--color-text);
-  margin-top: 120px;
-  background-color: var(--color-secondary);
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  width: 100vw;
-  padding: 58px 10%;
+  justify-content: center;
   gap: 10px;
+  width: 100vw;
+  margin-top: 120px;
+  padding: 58px 25%;
+  color: var(--color-text);
+  background-color: var(--color-secondary);
 }
 
 .content {
   flex: 1;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: flex-start;
   flex-basis: 50%;
   flex-shrink: 1;
 }
 
 .contactImage {
-  flex-basis: 50%;
-  flex-shrink: 1;
-  width: 40%;
+  width: 50%;
+  height: auto;
   max-width: 400px;
   z-index: 1;
   /* animation-name: floating;
