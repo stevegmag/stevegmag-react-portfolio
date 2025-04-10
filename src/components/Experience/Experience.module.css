@@ -5,7 +5,7 @@
   margin-top: 79px;
   margin-left: 10%;
   margin-right: 10%;
-  padding: 80px 0 0 0;
+  padding: 220px 0 0 0;
   color: var(--color-text);
 }
 
@@ -109,7 +109,7 @@
 .experienceImage {
   position: absolute;
   display: inline-block;
-  top: -58px;
+  top: 78px;
   /* right: -13px; */
   left: calc(50% + 100px);
   width: 220px;
