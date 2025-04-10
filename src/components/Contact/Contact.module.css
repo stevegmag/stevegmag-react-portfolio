@@ -87,6 +87,8 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .contactImage {
@@ -125,6 +127,6 @@
   }
 
   .link a:link {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
