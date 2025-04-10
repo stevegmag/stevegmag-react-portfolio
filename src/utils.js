@@ -4,10 +4,8 @@ export const getImageUrl = (path) => {
 
 export const getFileUrl = (path) => {
   const isProduction = import.meta.env.PROD;
-  // For local development, use absolute path from root
-  const baseUrl = isProduction 
-    ? '/stevegmag-react-portfolio'
-    : '';
+  // Remove the repository prefix since we're using a custom domain
+  const baseUrl = '';
   
   console.log(`Environment: ${isProduction ? 'production' : 'development'}`);
   const finalUrl = `${baseUrl}/files/${path}`;
