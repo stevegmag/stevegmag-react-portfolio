@@ -32,12 +32,13 @@
   position: sticky;
   top: 133px;
   height: fit-content;
-  flex: 0 0 15%;
+  flex: 0 0 30%;
   align-self: flex-start;
 }
 
 .aboutImage {
   width: 100%;
+  max-width: 220px;
   display: block;
 }
 
