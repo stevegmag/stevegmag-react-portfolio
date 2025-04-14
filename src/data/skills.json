@@ -54,5 +54,14 @@
   {
     "title": "WordPress",
     "imageSrc": "skills2/wordpress.svg"
+  },
+  {
+    "title": "HubSpot",
+    "imageSrc": "skills2/hubspot.svg"
+  },
+  {
+    "title": "Accessibility",
+    "imageSrc": "skills2/accessibility-100.svg"
   }
+  
 ]
