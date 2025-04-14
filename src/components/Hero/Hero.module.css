@@ -24,6 +24,7 @@
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
+  color: white;
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
@@ -38,6 +39,7 @@
   font-size: 30px;
   font-family: var(--font-roboto);
   line-height: 1.5;
+  color: white;
 }
 
 .buttonCnt {
@@ -122,6 +124,7 @@
   .title {
     margin-top: 13px;
     font-size: 46px;
+    color: white;
   } 
   .description {
     font-size: 22px;
@@ -155,9 +158,11 @@
   .title {
     margin-top: 13px;
     font-size: 32px;
+    color: white;
   } 
   .description {
     font-size: 22px;
+    color: white;
   }
   .buttonCnt {
     flex-direction: column;
