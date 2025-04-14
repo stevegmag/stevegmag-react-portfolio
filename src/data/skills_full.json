@@ -80,6 +80,14 @@
     "imageSrc": "skills2/wordpress.svg"
   },
   {
+    "title": "Shopify",
+    "imageSrc": "skills2/shopify.svg"
+  },
+  {
+    "title": "HubSpot",
+    "imageSrc": "skills2/hubspot.svg"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills2/figma.svg"
   }
