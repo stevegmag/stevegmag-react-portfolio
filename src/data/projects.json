@@ -3,7 +3,7 @@
     "title": "Walden University",
     "imageSrc": "projects/WALD-flag.png",
     "description": "Built the front-end of the Walden University Education website.",
-    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Sitecore"],
+    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Sitecore", "SEO", "CRO", "QA"],
     "demo": "#project-waldenuniversity",
     "source": "#"
   },
@@ -11,16 +11,8 @@
     "title": "Samsung Display",
     "imageSrc": "projects/SAMS-flag.png",
     "description": "Rebuilt, maintained, and enhanced Drupal site for Samsung Display. Architected, built, and maintained complete redesigned WordPress site.",
-    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "WordPress", "HubSpot"],
+    "skills": ["PHP", "JavaScript", "Sass/SCSS", "Drupal", "WordPress", "HubSpot", "SEO", "CRO", "QA"],
     "demo": "#project-samsungdisplay",
-    "source": "#"
-  },
-  {
-    "title": "BOAFit",
-    "imageSrc": "projects/BOA-flag2.png",
-    "description": "Architected and built Drupal site for BOAFit. Built front-end for Magento Warranty Store.",
-    "skills": ["React", "Drupal", "Magento", "JavaScript", "Sass/SCSS"],
-    "demo": "#project-boafit",
     "source": "#"
   },
   {
@@ -32,10 +24,34 @@
     "source": "#"
   },
   {
+    "title": "Lincoln Technical Institute",
+    "imageSrc": "projects/LTII-flag.png",
+    "description": "Creation and maintenance of WordPress site for Lincoln Technical Institute.",
+    "skills": ["PHP", "WordPress", "JavaScript", "Sass/SCSS", "SEO", "CRO", "QA"],
+    "demo": "#project-lincolntechnicalinstitute",
+    "source": "#"
+  },
+  {
+    "title": "Connection Academy",
+    "imageSrc": "projects/PEAR-flag.png",
+    "description": "Architected, creation and maintenance of WordPress site for Pearson's Connection Academy. Multiple site redesigns. Custom plugin functionality.",
+    "skills": ["PHP", "WordPress", "JavaScript", "Sass/SCSS", "SEO", "CRO", "QA"],
+    "demo": "#project-pearsonconnectionacademy",
+    "source": "#"
+  },
+  {
+    "title": "BOAFit",
+    "imageSrc": "projects/BOA-flag2.png",
+    "description": "Architected and built Drupal site for BOAFit. Built front-end for Magento Warranty Store.",
+    "skills": ["React", "Drupal", "Magento", "JavaScript", "Sass/SCSS"],
+    "demo": "#project-boafit",
+    "source": "#"
+  },
+  {
     "title": "Uplifting Athletes",
     "imageSrc": "projects/UA-flag.png",
     "description": "Architected, built, and maintainded Drupal site with Organic Groups.",
-    "skills": ["Drupal", "PHP", "JavaScript", "CSS"],
+    "skills": ["Drupal", "PHP", "JavaScript", "CSS", "SEO", "QA"],
     "demo": "#project-upliftingathletes",
     "source": "#"
   },
@@ -43,7 +59,7 @@
     "title": "American Woodmark",
     "imageSrc": "projects/Woodmark-flag.png",
     "description": "Architected, built and maintainded Drupal site with JavaScript SPA.",
-    "skills": ["Drupal", "PHP", "JavaScript", "CSS", "AJAX SPA", "REST API"],
+    "skills": ["Drupal", "PHP", "JavaScript", "CSS", "AJAX SPA", "REST API", "SEO", "QA"],
     "demo": "#project-americanwoodmark",
     "source": "#"
   }
