@@ -16,7 +16,7 @@
     "imageSrc": "skills2/jquery.svg"
   },
   {
-    "title": "Sass",
+    "title": "Sass/SCSS",
     "imageSrc": "skills2/sass-wordmark.svg"
   },
   {
@@ -40,7 +40,7 @@
     "imageSrc": "skills2/vuejs.svg"
   },
   {
-    "title": "Typescript",
+    "title": "TypeScript",
     "imageSrc": "skills2/typescript.svg"
   },
   {
@@ -90,5 +90,9 @@
   {
     "title": "Figma",
     "imageSrc": "skills2/figma.svg"
+  },
+  {
+    "title": "Accessibility",
+    "imageSrc": "skills2/accessibility-100.svg"
   }
 ]

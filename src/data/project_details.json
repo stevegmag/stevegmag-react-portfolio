@@ -78,7 +78,7 @@
     "imageSrc": "projects/CONL-flag.png",
     "description": "Rescued failing React and WordPress project.",
     "skills": ["React", "PHP", "WordPress", "Firebase", "JavaScript", "Sass/SCSS", "QA"],
-    "role": "Lead Front-end Developer",
+    "role": "Lead Full-Stack Developer",
     "activities": [
       "WordPress - Custom Theme",
       "React Single Page Application - \"Get a Quote\" engine",
@@ -90,6 +90,47 @@
     "source": "#",
     "url": "https://www.conservatoryland.com/"
   },
+  {
+    "title": "Connection Academy",
+    "employer": "Jellyfish",
+    "imageSrc": "projects/PEAR-flag.png",
+    "description": "Architected, creation and maintenance of WordPress site for Pearson's Connection Academy. Multiple site redesigns. Custom plugin functionality.",
+    "skills": ["PHP", "WordPress", "JavaScript", "Sass/SCSS", "SEO", "CRO", "QA"],
+    "role": "Lead Full-Stack Developer",
+    "activities": [
+      "WordPress - Multi-site",
+      "Custom Gutenberg-based Theme",
+      "Custom plugin functionality",
+      "Extensive PHP functionality & templating",
+      "Conversion Rate Optimization (CRO), SEO, Performance and Accessibility testing",
+      "Quality Assurance testing and remediation"
+    ], 
+    "screenshots": [ 
+      "projects/screenshots/PearsonConnectionAcademy-Desktop.png",
+      "projects/screenshots/PearsonConnectionAcademy-Mobile.png"
+    ],
+    "demo": "#project-pearsonconnectionacademy",
+    "source": "#",
+    "url": "https://learn.connectionsacademy.com/alabama/"
+  },
+  {
+    "title": "Lincoln Technical Institute", 
+    "employer": "Jellyfish",  
+    "imageSrc": "projects/LTII-flag.png", 
+    "description": "Creation and maintenance of WordPress site for Lincoln Technical Institute.",
+    "skills": ["PHP", "WordPress", "JavaScript", "Sass/SCSS", "SEO", "CRO", "QA"],
+    "role": "Lead Full-Stack Developer",
+    "activities": [      
+      "WordPress - Custom Theme",
+      "Extensive PHP functionality & templating",
+      "Conversion Rate Optimization (CRO), SEO, Performance and Accessibility testing",
+      "Quality Assurance testing and remediation"
+    ], 
+    "screenshots": [ "projects/screenshots/info-licontech.png" ],
+    "demo": "#project-lincolntechnicalinstitute",
+    "source": "#",
+    "url": "https://info.licontech.edu/"
+  }, 
   {
     "title": "Uplifting Athletes",
     "employer": "Mediabarn",
