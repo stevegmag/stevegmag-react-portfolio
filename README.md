@@ -14,11 +14,12 @@ tags:
   - Vite
 categories: ['Development', 'Front-end', 'Javascript', 'React' ]
 comments: false
-preview: /public/images/SteveG-bigcopy.svg
+---
+<!-- preview: /public/images/SteveG-bigcopy.svg
 tutorialList:
   - https://www.youtube.com/watch?v=YQCDUJ6hhNY&t=2s
   - https://github.com/CodeCompleteYT/react-portfolio
-  - https://www.figma.com/design/tkDs3aeBaqvF47hD063LSH/Untitled?node-id=0-1&p=f
+  - https://www.figma.com/design/tkDs3aeBaqvF47hD063LSH/Untitled?node-id=0-1&p=f -->
 
 ---
 <!-- old repo: 
