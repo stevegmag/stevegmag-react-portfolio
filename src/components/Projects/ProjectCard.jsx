@@ -15,7 +15,7 @@ export const ProjectCard = ({
       <div className={styles.container}>
         <img
           src={getImageUrl(imageSrc)}
-          alt={`Image of ${title}`}
+          alt={`${title} logo`}
           className={styles.image}
           onClick={() => setIsModalOpen(true)}
         />
