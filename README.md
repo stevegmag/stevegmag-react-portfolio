@@ -29,6 +29,33 @@ https://old.stevegmag.webonwater.com/ -->
 
 
 
+## Running Locally
+
+### Prerequisites
+- Node.js (v18 or higher recommended)
+- npm
+
+### Installation
+```bash
+npm install
+```
+
+### Development
+```bash
+npm run dev
+```
+This starts the Vite development server. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+### Other Commands
+| Command | Description |
+|---------|-------------|
+| `npm run build` | Build for production |
+| `npm run preview` | Preview production build locally |
+| `npm run lint` | Run ESLint |
+| `npm run deploy` | Deploy to GitHub Pages |
+
+---
+
 ## TODOS:
 - [X] Setup project 
 - [X] Customize
